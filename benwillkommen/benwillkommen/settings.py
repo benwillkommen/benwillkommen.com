@@ -1,5 +1,5 @@
 # Django settings for benwillkommen project.
-
+#modification for playing w/ git
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
