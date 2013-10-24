@@ -4,6 +4,7 @@ from django.conf.urls import patterns, include, url
 # from django.contrib import admin
 # admin.autodiscover()
 #git test
+#modified in killer feature branch
 
 urlpatterns = patterns('',
     # Examples:
